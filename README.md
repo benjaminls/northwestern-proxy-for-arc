@@ -6,4 +6,4 @@ This repository contains a custom extension to load the Northwestern University 
 # DIY Extension
 
 # Usage
-This repository only contains an alternate method of running the Javascript bookmarklet provided by the official (Northwestern page)[https://galter.northwestern.edu/galterguides?url=https://libguides.galter.northwestern.edu/c.php?g%3D943466%26p%3D6800422]. 
+This repository only contains an alternate method of running the Javascript bookmarklet provided by the official [Northwestern page](https://galter.northwestern.edu/galterguides?url=https://libguides.galter.northwestern.edu/c.php?g%3D943466%26p%3D6800422). 
