@@ -1,0 +1,1 @@
+(function(){location.href="https://galter.northwestern.edu/exit?url="+encodeURI(location.href)})();
